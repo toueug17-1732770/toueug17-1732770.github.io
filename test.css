@@ -1,21 +1,36 @@
 body{
-
+    background-image: url('dark_wood.png')
 }
 
 p{
+    font-weight: bold;
+    color: #FFFFFF; 
+    font-family: "Arial"; 
+    background-color: #8E41D5;
+}
 
+a{
+    color: #FFFFFF; 
+    font-weight: bold;
+    font-size: 24px;
 }
 
 h3{
-
+    font-weight: bold;
+    background-color: #8E41D5;
+    color: #FFBC00; 
+    font-size: 40px;
+    font-family: "Passion One"
+    margin-bottom: 10px;
 }
 
 li{
-
+    background-color: #8E41D5;
 }
 
 #Header{
     text-align: center;
+    background-color: #8E41D5;
     width: 500px;
     margin-left: auto;
     margin-right: auto;
@@ -25,6 +40,7 @@ li{
 
 #Header h1{
     font-size: 60px; \
+    background-color: #8E41D5;
     font-family: "Passion One"; 
     color: #FFBC00; 
     font-weight: bold;
@@ -32,6 +48,7 @@ li{
 
 #LeftNav{
     list-style-type: none;
+    background-color: #8E41D5;
     text-align: center;
     width: 400px;
     margin-left: auto;
@@ -42,21 +59,23 @@ li{
 }
 
 #LeftNav img{
-
+    background-color: #8E41D5;
 }
 
 #LeftNav ul{
     list-style-type: none;
+    background-color: #8E41D5;
     padding-left: 8px;
 
 }
 
 #LeftNav h3{
-
+    background-color: #8E41D5;
 }
 
 #Content{
     padding-left: 15px;
+    background-color: #8E41D5;
     text-align: center;
     width: 700px;
     margin-left: auto;
@@ -67,10 +86,12 @@ li{
 
 #Footer ul{
     list-style-type: none;
+    background-color: #8E41D5;
     padding-left: 8px;
 }
 
 #Footer{
     text-align: center;
     border:solid 8px black;
+    background-color: #8E41D5;
 }
